@@ -1,7 +1,6 @@
 package com.korczak.kacper.mgr.refactoring.solid.before.lsp;
 
-public class Square extends Rectangle{
-
+public class Square extends Rectangle {
 	private int sideLength;
 
 	private Square(int height, int width) {
@@ -11,7 +10,7 @@ public class Square extends Rectangle{
 
 	@Override
 	public int getArea() {
-		return sideLength^2;
+		return sideLength ^ 2;
 	}
 
 	@Override
@@ -19,5 +18,4 @@ public class Square extends Rectangle{
 		int sidesCount = 4;
 		return sidesCount * sideLength;
 	}
-
 }
