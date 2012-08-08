@@ -6,5 +6,4 @@ public class XmlValidator {
 		// do some xml validation
 		return true;
 	}
-
 }

@@ -16,5 +16,4 @@ public class Rectangle implements Quadrilateral{
 		int widthSidesCount = 2;
 		return (heightSidesCount * height) + (widthSidesCount * width);
 	}
-
 }

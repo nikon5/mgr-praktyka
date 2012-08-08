@@ -7,5 +7,4 @@ public interface AdvancedActions {
 	public abstract void freez();
 
 	public abstract void unfreez();
-
 }

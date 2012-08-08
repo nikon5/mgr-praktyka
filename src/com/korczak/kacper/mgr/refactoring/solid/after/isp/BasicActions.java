@@ -7,5 +7,4 @@ public interface BasicActions {
 	public abstract void stop();
 
 	public abstract void restart();
-
 }

@@ -27,6 +27,4 @@ public class XmlProcessor {
 		// prepare one line of text from input xml tree (string)
 		return xml;
 	}
-
-
 }

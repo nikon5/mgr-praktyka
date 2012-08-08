@@ -11,5 +11,4 @@ public class XmlFormater {
 		// prepare one line of text from input xml tree (string)
 		return xml;
 	}
-
 }

@@ -14,5 +14,4 @@ public class XmlCompiler {
 		// do some xml processing
 		return new XmlProcessedNode();
 	}
-
 }

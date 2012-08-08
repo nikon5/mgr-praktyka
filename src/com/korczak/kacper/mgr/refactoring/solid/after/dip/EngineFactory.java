@@ -21,5 +21,4 @@ public class EngineFactory {
 		Chamber chamber = new Chamber(cylinders);
 		return new Engine(craftshank, commonrail, chamber);
 	}
-
 }
