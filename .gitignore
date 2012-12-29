@@ -1,1 +1,13 @@
-bin/
+#java specific
+*.class
+
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+[Tt]humbs.db
+*.swp
+*.out
+
+# maven specific directories 
+target/
